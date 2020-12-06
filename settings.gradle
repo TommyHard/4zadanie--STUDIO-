@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Gono4ki.Garbage"
